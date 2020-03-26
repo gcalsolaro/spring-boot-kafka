@@ -3,7 +3,7 @@
 # Spring Boot Kafka
 
 ![Java CI with Maven](https://github.com/gcalsolaro/spring-boot-kafka/workflows/Java%20CI%20with%20Maven/badge.svg)
-> **Sample application using Apache Kafka as Message Broker powered by Spring Security**
+> **Sample application using Apache Kafka as Message Broker powered by Spring**
 
 
 ## Table of Contents
